@@ -17,8 +17,8 @@ def getUrl(zoneId, recordId):
 
 ip = getIP()
 
-zoneId = "af732de78300ca9878638510774dfcfd"
-recordId = "57eef93654f88c36f6462083aa343789"
+zoneId = ""
+recordId = ""
 authToken = 'Bearer your-cloudflare-token'
 emailId = 'your-cloudflare-email'
 
